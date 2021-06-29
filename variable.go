@@ -9,12 +9,17 @@ func main() {
 	var my_name = "Wahyudi Andrian"
 	var age = 24
 
-	name ="Wahyudi Andrian"
+	name = "Wahyudi Andrian"
 	fmt.Println(name)
-	
+
 	name = "Wahyudi"
 	fmt.Println(name)
-	fmt.Println("Name : ",my_name)
-	fmt.Println("Age : ",age)
+	fmt.Println("Name : ", my_name)
+	fmt.Println("Age : ", age)
+
+	//Simple Declaration Variable
+	country := "Indonesia"
+
+	fmt.Println(country)
 
 }
