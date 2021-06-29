@@ -1,1 +1,1 @@
-# belajar-go
+# Belajar Go
