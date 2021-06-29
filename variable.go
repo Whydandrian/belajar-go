@@ -22,4 +22,12 @@ func main() {
 
 	fmt.Println(country)
 
+	var (
+		firstName = "Wahyudi"
+		lastName = "Andrian"
+	)
+
+	fmt.Println(firstName)
+	fmt.Println(lastName)
+
 }
