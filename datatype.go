@@ -13,6 +13,13 @@ func main() {
 	fmt.Println(nilai64)
 	fmt.Println(nilai8)
 
+	var name = "Wahyudi"
+	var e byte = name[0]
+	var eString string = string(e)
+
+	fmt.Println(name)
+	fmt.Println(eString)
+
 
 
 
