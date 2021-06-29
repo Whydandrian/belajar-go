@@ -11,5 +11,17 @@ func main() {
 	fmt.Println(firstName)
 	fmt.Println(lastName)
 	fmt.Println(value)
+	
+	// Declare Multi Constant
+	const (
+		nama string = "Wahyudi Andrian"
+		alamat = "Lumajang"
+		umur = 24
+	)
+	
+	fmt.Println(nama)
+	fmt.Println(alamat)
+	fmt.Println(umur)
+
 
 }
